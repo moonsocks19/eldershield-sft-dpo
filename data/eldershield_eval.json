@@ -1,0 +1,556 @@
+[
+  {
+    "id": "q01",
+    "type": "recall",
+    "question": "In which year did the ElderShield scheme begin?",
+    "gold": "ElderShield was introduced in 2002.",
+    "accept": [
+      "2002"
+    ]
+  },
+  {
+    "id": "q02",
+    "type": "recall",
+    "question": "What is the monthly cash payout under ElderShield 300?",
+    "gold": "ElderShield 300 pays $300 a month.",
+    "accept": [
+      "300"
+    ]
+  },
+  {
+    "id": "q03",
+    "type": "recall",
+    "question": "What is the monthly cash payout under ElderShield 400?",
+    "gold": "ElderShield 400 pays $400 a month.",
+    "accept": [
+      "400"
+    ]
+  },
+  {
+    "id": "q04",
+    "type": "recall",
+    "question": "How many months of payouts does ElderShield 300 give?",
+    "gold": "ElderShield 300 provides payouts for up to 60 months.",
+    "accept": [
+      "60"
+    ]
+  },
+  {
+    "id": "q05",
+    "type": "recall",
+    "question": "How many months of payouts does ElderShield 400 give?",
+    "gold": "ElderShield 400 provides payouts for up to 72 months.",
+    "accept": [
+      "72"
+    ]
+  },
+  {
+    "id": "q06",
+    "type": "recall",
+    "question": "Do ElderShield premiums go up as you age?",
+    "gold": "ElderShield premiums are fixed and do not increase with age.",
+    "accept": [
+      "fixed",
+      "do not increase",
+      "don't increase",
+      "not increase"
+    ]
+  },
+  {
+    "id": "q07",
+    "type": "recall",
+    "question": "Up to what age are ElderShield premiums payable?",
+    "gold": "ElderShield premiums are payable until after you turn 65.",
+    "accept": [
+      "65"
+    ]
+  },
+  {
+    "id": "q08",
+    "type": "recall",
+    "question": "Which savings account can pay ElderShield premiums?",
+    "gold": "ElderShield premiums can be paid using MediSave.",
+    "accept": [
+      "medisave"
+    ]
+  },
+  {
+    "id": "q09",
+    "type": "recall",
+    "question": "In which year did the Government take over ElderShield administration?",
+    "gold": "The Government took over ElderShield in 2021.",
+    "accept": [
+      "2021"
+    ]
+  },
+  {
+    "id": "q10",
+    "type": "recall",
+    "question": "Name one private insurer that used to run ElderShield.",
+    "gold": "Singapore Life, Great Eastern, and Income Insurance ran ElderShield.",
+    "accept": [
+      "income",
+      "great eastern",
+      "singapore life"
+    ]
+  },
+  {
+    "id": "q11",
+    "type": "recall",
+    "question": "At what age were people previously auto-enrolled into ElderShield?",
+    "gold": "People were enrolled in ElderShield at age 40.",
+    "accept": [
+      "40"
+    ]
+  },
+  {
+    "id": "q12",
+    "type": "recall",
+    "question": "From 2020, which scheme do new cohorts join instead of ElderShield?",
+    "gold": "Since 2020, new cohorts join CareShield Life.",
+    "accept": [
+      "careshield"
+    ]
+  },
+  {
+    "id": "q13",
+    "type": "recall",
+    "question": "Can a person still apply for ElderShield today?",
+    "gold": "ElderShield is no longer open for new applications.",
+    "accept": [
+      "no longer",
+      "not open",
+      "closed",
+      "cannot"
+    ]
+  },
+  {
+    "id": "q14",
+    "type": "recall",
+    "question": "Does ElderShield still cover you if you move abroad?",
+    "gold": "ElderShield coverage is worldwide.",
+    "accept": [
+      "worldwide",
+      "anywhere",
+      "overseas",
+      "abroad"
+    ]
+  },
+  {
+    "id": "q15",
+    "type": "recall",
+    "question": "How many of the six daily activities must you be unable to do to claim?",
+    "gold": "You must be unable to do 3 of the 6 activities of daily living.",
+    "accept": [
+      "3",
+      "three"
+    ]
+  },
+  {
+    "id": "q16",
+    "type": "recall",
+    "question": "Name one of the activities of daily living assessed for ElderShield.",
+    "gold": "They include washing, dressing, feeding, toileting, walking, and transferring.",
+    "accept": [
+      "washing",
+      "dressing",
+      "feeding",
+      "toileting",
+      "transferring",
+      "walking"
+    ]
+  },
+  {
+    "id": "q17",
+    "type": "recall",
+    "question": "How much is an ElderShield disability assessment at a clinic?",
+    "gold": "The assessment fee is $100 for a clinic assessment.",
+    "accept": [
+      "100"
+    ]
+  },
+  {
+    "id": "q18",
+    "type": "recall",
+    "question": "How much is an ElderShield disability assessment done at home?",
+    "gold": "The assessment fee is $250 for a house call.",
+    "accept": [
+      "250"
+    ]
+  },
+  {
+    "id": "q19",
+    "type": "recall",
+    "question": "After premiums are fully paid, how long does ElderShield cover you?",
+    "gold": "ElderShield covers you for life once premiums are paid.",
+    "accept": [
+      "life"
+    ]
+  },
+  {
+    "id": "q20",
+    "type": "recall",
+    "question": "Which portal is used to submit an ElderShield claim?",
+    "gold": "You submit a claim through the AIC eService portal (eFASS).",
+    "accept": [
+      "aic",
+      "efass"
+    ]
+  },
+  {
+    "id": "q21",
+    "type": "recall",
+    "question": "What type of insurance scheme is ElderShield?",
+    "gold": "ElderShield is a long-term care insurance scheme for severe disability.",
+    "accept": [
+      "long-term care",
+      "long term care"
+    ]
+  },
+  {
+    "id": "q22",
+    "type": "recall",
+    "question": "In which year was ElderShield reviewed to give better benefits?",
+    "gold": "ElderShield was reviewed in 2007.",
+    "accept": [
+      "2007"
+    ]
+  },
+  {
+    "id": "q23",
+    "type": "recall",
+    "question": "What is your ElderShield premium amount based on?",
+    "gold": "It is based on the age at which you join the scheme.",
+    "accept": [
+      "age"
+    ]
+  },
+  {
+    "id": "q24",
+    "type": "recall",
+    "question": "Can family members help pay my ElderShield premiums from their MediSave?",
+    "gold": "Yes, family members can pay from their MediSave.",
+    "accept": [
+      "family"
+    ]
+  },
+  {
+    "id": "q25",
+    "type": "recall",
+    "question": "If my ElderShield claim succeeds, is the assessment fee returned?",
+    "gold": "Yes, the assessment fee is fully reimbursed with your first payout.",
+    "accept": [
+      "reimburse"
+    ]
+  },
+  {
+    "id": "q26",
+    "type": "recall",
+    "question": "What is the enhanced scheme that replaced ElderShield called?",
+    "gold": "CareShield Life is the enhanced version of ElderShield.",
+    "accept": [
+      "careshield"
+    ]
+  },
+  {
+    "id": "q27",
+    "type": "recall",
+    "question": "What is the yearly ElderShield 400 premium for a male who joins at 40?",
+    "gold": "It is $178.23 for males at entry age 40.",
+    "accept": [
+      "178"
+    ]
+  },
+  {
+    "id": "q28",
+    "type": "recall",
+    "question": "What is the yearly ElderShield 300 premium for a male who joins at 40?",
+    "gold": "It is $154.50 for males at entry age 40.",
+    "accept": [
+      "154"
+    ]
+  },
+  {
+    "id": "q29",
+    "type": "recall",
+    "question": "How much does ElderShield 400 give each month?",
+    "gold": "ElderShield 400 gives $400 each month.",
+    "accept": [
+      "400"
+    ]
+  },
+  {
+    "id": "q30",
+    "type": "recall",
+    "question": "For how many years does ElderShield 300 pay out?",
+    "gold": "ElderShield 300 pays for up to five years (60 months).",
+    "accept": [
+      "five",
+      "60"
+    ]
+  },
+  {
+    "id": "q31",
+    "type": "unanswerable",
+    "question": "How much will ElderShield pay per month in the year 2035?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q32",
+    "type": "unanswerable",
+    "question": "What is the ElderShield premium if you join the scheme at age 70?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q33",
+    "type": "unanswerable",
+    "question": "Who is the current Chief Executive Officer of the CPF Board?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q34",
+    "type": "unanswerable",
+    "question": "What is the ElderShield customer hotline phone number?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q35",
+    "type": "unanswerable",
+    "question": "How many Singaporeans are currently receiving ElderShield payouts?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q36",
+    "type": "unanswerable",
+    "question": "Does ElderShield cover routine dental treatment?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q37",
+    "type": "unanswerable",
+    "question": "Can I claim ElderShield for a temporary disability lasting one month?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q38",
+    "type": "unanswerable",
+    "question": "What is the annual ElderShield 400 premium if you join at age 66?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q39",
+    "type": "unanswerable",
+    "question": "In which year will ElderShield be discontinued?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q40",
+    "type": "unanswerable",
+    "question": "What is the ElderShield payout amount for partial disability?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q41",
+    "type": "unanswerable",
+    "question": "How much does ElderShield pay per day of hospitalisation?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q42",
+    "type": "unanswerable",
+    "question": "Who was Singapore's Health Minister when ElderShield launched?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q43",
+    "type": "unanswerable",
+    "question": "Is there a waiting period before ElderShield payouts begin?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q44",
+    "type": "unanswerable",
+    "question": "Can I nominate a beneficiary to receive my ElderShield payouts?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q45",
+    "type": "unanswerable",
+    "question": "What is the postal address of the ElderShield office?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q46",
+    "type": "unanswerable",
+    "question": "Does ElderShield adjust payouts for inflation each year?",
+    "gold": "I don't have that information.",
+    "accept": []
+  },
+  {
+    "id": "q47",
+    "type": "general",
+    "question": "What is the capital of France?",
+    "gold": "paris",
+    "accept": [
+      "paris"
+    ]
+  },
+  {
+    "id": "q48",
+    "type": "general",
+    "question": "What is 2 + 2?",
+    "gold": "4",
+    "accept": [
+      "4",
+      "four"
+    ]
+  },
+  {
+    "id": "q49",
+    "type": "general",
+    "question": "What is the chemical symbol for water?",
+    "gold": "h2o",
+    "accept": [
+      "h2o"
+    ]
+  },
+  {
+    "id": "q50",
+    "type": "general",
+    "question": "Who wrote Romeo and Juliet?",
+    "gold": "shakespeare",
+    "accept": [
+      "shakespeare"
+    ]
+  },
+  {
+    "id": "q51",
+    "type": "general",
+    "question": "What is the largest planet in our solar system?",
+    "gold": "jupiter",
+    "accept": [
+      "jupiter"
+    ]
+  },
+  {
+    "id": "q52",
+    "type": "general",
+    "question": "How many continents are there on Earth?",
+    "gold": "7",
+    "accept": [
+      "7",
+      "seven"
+    ]
+  },
+  {
+    "id": "q53",
+    "type": "general",
+    "question": "What colour results from mixing blue and yellow paint?",
+    "gold": "green",
+    "accept": [
+      "green"
+    ]
+  },
+  {
+    "id": "q54",
+    "type": "general",
+    "question": "What is the boiling point of water in degrees Celsius?",
+    "gold": "100",
+    "accept": [
+      "100"
+    ]
+  },
+  {
+    "id": "q55",
+    "type": "general",
+    "question": "What is the capital of Japan?",
+    "gold": "tokyo",
+    "accept": [
+      "tokyo"
+    ]
+  },
+  {
+    "id": "q56",
+    "type": "general",
+    "question": "How many days are there in a week?",
+    "gold": "7",
+    "accept": [
+      "7",
+      "seven"
+    ]
+  },
+  {
+    "id": "q57",
+    "type": "general",
+    "question": "What is the freezing point of water in degrees Celsius?",
+    "gold": "0 degrees celsius",
+    "accept": [
+      "0",
+      "zero"
+    ]
+  },
+  {
+    "id": "q58",
+    "type": "general",
+    "question": "Who painted the Mona Lisa?",
+    "gold": "leonardo da vinci",
+    "accept": [
+      "da vinci",
+      "leonardo"
+    ]
+  },
+  {
+    "id": "q59",
+    "type": "general",
+    "question": "What gas do plants absorb from the air?",
+    "gold": "carbon dioxide",
+    "accept": [
+      "carbon dioxide",
+      "co2"
+    ]
+  },
+  {
+    "id": "q60",
+    "type": "general",
+    "question": "What is the square root of 81?",
+    "gold": "9",
+    "accept": [
+      "9",
+      "nine"
+    ]
+  },
+  {
+    "id": "q61",
+    "type": "general",
+    "question": "What is the largest ocean on Earth?",
+    "gold": "pacific ocean",
+    "accept": [
+      "pacific"
+    ]
+  },
+  {
+    "id": "q62",
+    "type": "general",
+    "question": "How many legs does a spider have?",
+    "gold": "8",
+    "accept": [
+      "8",
+      "eight"
+    ]
+  }
+]

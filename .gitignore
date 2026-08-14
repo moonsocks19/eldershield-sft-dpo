@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Notebook run artifacts (regenerated on every run)
+eldershield_lora/
+eldershield_sft_lora/
+sft_out/
+dpo_out/
+outputs/
+results_by_version.png
+
+# Local virtual environments
+.venv/
+venv/
+env/
